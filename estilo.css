@@ -20,5 +20,5 @@ p{
 }
 
 #conteudo{
-    display
+    display: flex;
 }
